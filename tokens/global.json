@@ -146,5 +146,29 @@
         "type": "color"
       }
     }
+  },
+  "_bbc": {
+    "news": {
+      "red": {
+        "value": "#ff0000",
+        "type": "color"
+      }
+    },
+    "sport": {
+      "yellow": {
+        "value": "#ffde68",
+        "type": "color"
+      }
+    },
+    "iplayer": {
+      "pink": {
+        "value": "#ff68f0",
+        "type": "color"
+      },
+      "pink-dark": {
+        "value": "#d739c7",
+        "type": "color"
+      }
+    }
   }
 }
