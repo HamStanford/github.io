@@ -168,6 +168,10 @@
       "pink-dark": {
         "value": "#d739c7",
         "type": "color"
+      },
+      "pink-darkest": {
+        "value": "#b421a5",
+        "type": "color"
       }
     }
   }
