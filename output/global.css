@@ -41,4 +41,8 @@
   --bbc-iplayer-pink: #ff68f0;
   --bbc-iplayer-pink-dark: #d739c7;
   --bbc-iplayer-pink-darkest: #b421a5;
-      }
+}
+
+.test_class_added_to_global_css_file{
+    background-color: chartreuse;
+}
