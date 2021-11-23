@@ -11,7 +11,7 @@
   --bbc-iplayer-pink-darkest: #b421a5;
 }
     
-.local_css_styling {
+.local_css_variable_styling {
   /*--colors-red-100: #ff0000;*/
   /*background-color:green;*/
   /*background-color:green;*/
@@ -21,27 +21,25 @@
   margin: 20px;
   padding: 20px;
 }
-.global-theme-yellow {
-  background-color: var(--colors-blue-500);
-  color: grey;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
+
+.tokens_file_css_variable{
+  background-color: var(--bbc-iplayer-pink);
 }
+
 </style>
 </head>
 
 
 <body>
   <h1>Hello World</h1>
-    <div class="local_css_styling">
+    <div class="local_css_variable_styling">
         <p>I'm hosted with GitHub Pages.</p>
-    </div>
-    <div class="global-theme-yellow">
-        <p>I'm linked to the real tokens document if I AM YELLOW.</p>
     </div>
     <div class="external_test_class">
       <p>I'm linked to the external css file, hopefully I'm purple and aqua</p>
   </div>
+  <div class="tokens_file_css_variable">
+    <p>I'm linked to the real tokens css variable if I AM YELLOW.</p>
+</div>
 </body>
 </html>
