@@ -67,11 +67,16 @@
 }
 
 #grid-block{
+  padding: 20px;
+  display: inline-flex;
+
   background-color: var(--colors-grey-100);
   outline: blue;
 }
 
 .grid-item{
+  margin: 20px;
+
   background-color: var(--colors-white);
   width: 200px;
   height: 200px;
