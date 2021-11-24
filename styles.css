@@ -73,7 +73,7 @@
 
 .grid-item{
   background-color: var(--colors-white);
-  width: 50%;
+  width: 200px;
   height: 200px;
   outline: red;
 }
