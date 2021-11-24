@@ -68,10 +68,12 @@
 
 #grid-block{
   background-color: var(--colors-grey-100);
+  outline: blue;
 }
 
 .grid-item{
   background-color: var(--colors-white);
   width: 50%;
   height: 200px;
+  outline: red;
 }
