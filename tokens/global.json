@@ -152,14 +152,6 @@
       "red": {
         "value": "#ff0000",
         "type": "color"
-      },
-      "red-darker": {
-        "value": "#cb1e1e",
-        "type": "color"
-      },
-      "red-darkest": {
-        "value": "#921d1d",
-        "type": "color"
       }
     },
     "sport": {
@@ -172,13 +164,35 @@
       "pink": {
         "value": "#ff68f0",
         "type": "color"
-      },
-      "pink-dark": {
-        "value": "#d739c7",
+      }
+    }
+  },
+  "_brand": {
+    "tab": {
+      "accent": {
+        "value": "#D27837",
         "type": "color"
       },
-      "pink-darkest": {
-        "value": "#b421a5",
+      "surface": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "textcolour": {
+        "value": "#333333",
+        "type": "color"
+      }
+    },
+    "kinandcarta": {
+      "accent": {
+        "value": "#7237D2",
+        "type": "color"
+      },
+      "surface": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "textcolour": {
+        "value": "#ffffff",
         "type": "color"
       }
     }

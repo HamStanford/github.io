@@ -35,10 +35,12 @@
   --colors-grey-900: #323232;
   --colors-grey-950: #212121;
   --bbc-news-red: #ff0000;
-  --bbc-news-red-darker: #cb1e1e;
-  --bbc-news-red-darkest: #921d1d;
   --bbc-sport-yellow: #ffde68;
   --bbc-iplayer-pink: #ff68f0;
-  --bbc-iplayer-pink-dark: #d739c7;
-  --bbc-iplayer-pink-darkest: #b421a5;
+  --brand-tab-accent: #D27837;
+  --brand-tab-surface: #FFFFFF;
+  --brand-tab-textcolour: #333333;
+  --brand-kinandcarta-accent: #7237D2;
+  --brand-kinandcarta-surface: #333333;
+  --brand-kinandcarta-textcolour: #ffffff;
       }
