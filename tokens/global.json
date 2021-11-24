@@ -170,14 +170,14 @@
   "_brand": {
     "tab": {
       "accent": {
-        "value": "#D27837",
+        "value": "#FF833E",
         "type": "color"
       },
       "surface": {
         "value": "#FFFFFF",
         "type": "color"
       },
-      "textcolour": {
+      "text": {
         "value": "#333333",
         "type": "color"
       }
@@ -191,7 +191,7 @@
         "value": "#333333",
         "type": "color"
       },
-      "textcolour": {
+      "text": {
         "value": "#ffffff",
         "type": "color"
       }
