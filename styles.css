@@ -56,3 +56,20 @@
   background-color: var(--bbc-sport-yellow);
   color: var(--colors-blue-500);
 }
+
+
+
+
+
+
+#header-block{
+  background-color: var(--colors-white);
+}
+
+#grid-block{
+  background-color: var(--colors-grey-100);
+}
+
+.grid-item{
+  background-color: var(--colors-white);
+}
