@@ -1,8 +1,8 @@
 .global-theme {
-          --brand-tab-accent: #FF833E;
-  --brand-tab-surface: #FFFFFF;
-  --brand-tab-text: #333333;
-  --brand-kinandcarta-accent: #7237D2;
-  --brand-kinandcarta-surface: #333333;
-  --brand-kinandcarta-text: #ffffff;
+          --brands-tab-accent: #FF833E;
+  --brands-tab-surface: #FFFFFF;
+  --brands-tab-text: #333333;
+  --brands-kinandcarta-accent: #7237D2;
+  --brands-kinandcarta-surface: #333333;
+  --brands-kinandcarta-text: #ffffff;
       }
