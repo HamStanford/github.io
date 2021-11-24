@@ -51,3 +51,8 @@
   --bbc-iplayer-pink-dark: #d739c7;
   --bbc-iplayer-pink-darkest: #b421a5;
 }
+
+.tokens_file_css_variable_pasted_int_external_root{
+  background-color: var(--bbc-sport-yellow);
+  color: var(--colors-blue-500);
+}
