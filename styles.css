@@ -72,4 +72,6 @@
 
 .grid-item{
   background-color: var(--colors-white);
+  width: 50%;
+  height: 200px;
 }
