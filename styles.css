@@ -73,7 +73,6 @@ body{
 }
 
 #grid-block{
-  padding: 20px;
   display: inline-flex;
   width: 100%;
   background-color: var(--colors-grey-100);
