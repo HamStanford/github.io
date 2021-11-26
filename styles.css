@@ -41,7 +41,7 @@ body{
   display: inline-flex;
   width: 100%;
   background-color: var(--brands-tab-surface);
-  outline: blue;
+  border-radius: 10px;
 }
 
 .grid-item{
