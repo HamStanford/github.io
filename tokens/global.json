@@ -28,5 +28,13 @@
         "type": "color"
       }
     }
+  },
+  "_brandName": {
+    "accent": {
+      "primary": {
+        "value": "#e54fdf",
+        "type": "color"
+      }
+    }
   }
 }
