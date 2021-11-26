@@ -41,14 +41,14 @@ body{
 #grid-block{
   display: inline-flex;
   width: 100%;
-  border-radius: 10px;
 }
 
 .grid-item{
   margin: 20px;
   padding: 10px;
   background-color: var(--brands-tab-surface);
-  border-radius: 10px;
+  border-radius:4px;
+  box-shadow: 0 4px 16px rgb(100 0 0 / 20%);
 }
 
 .stripe-block{
