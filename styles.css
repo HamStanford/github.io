@@ -90,6 +90,10 @@
 
 
 /* TEXT STYLES */
+h1{
+
+}
+
 p{
   color: var(--colors-blue-400);
 }
