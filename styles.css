@@ -30,6 +30,7 @@
 body{
   max-width: 1800;
   margin: auto;
+  padding 20px;
   background-color: var(--brands-tab-accent);
 }
 
