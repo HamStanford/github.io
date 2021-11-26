@@ -49,7 +49,6 @@ body{
   padding: 10px;
   background-color: var(--brands-tab-surface);
   height: 200px;
-  outline: red;
   border-radius: 10px;
 }
 
