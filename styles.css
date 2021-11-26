@@ -62,6 +62,12 @@
 
 /* LAYOUT STYLES */
 
+body{
+  max-width: 1800;
+  margin: auto;
+  background-color: var(--colors-grey-50);
+}
+
 #header-block{
   background-color: var(--colors-white);
 }
