@@ -36,5 +36,11 @@
         "type": "color"
       }
     }
+  },
+  "_New": {
+    "new style": {
+      "value": "#ff0000",
+      "type": "color"
+    }
   }
 }
