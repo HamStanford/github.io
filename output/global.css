@@ -1,10 +1,9 @@
 .global-theme {
-          --brands-tab-accent: #FF833E;
-  --brands-tab-surface: #FFFFFF;
-  --brands-tab-text: #333333;
-  --brands-kinandcarta-accent: #7237D2;
-  --brands-kinandcarta-surface: #333333;
-  --brands-kinandcarta-text: #ffffff;
-  --brand-name-accent-primary: #e54fdf;
-  --new-new-style: #ff0000;
+          --white: #ffffff;
+  --pale-grey: #f8f8f8;
+  --mid-grey: #f1f1f2;
+  --dark-grey: #28262e;
+  --black: #1e1924;
+  --rich-purple: #7422f5;
+  --pale-purple: #8b75da;
       }

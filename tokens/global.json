@@ -1,46 +1,30 @@
 {
-  "_brands": {
-    "tab": {
-      "accent": {
-        "value": "#FF833E",
-        "type": "color"
-      },
-      "surface": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "text": {
-        "value": "#333333",
-        "type": "color"
-      }
-    },
-    "kinandcarta": {
-      "accent": {
-        "value": "#7237D2",
-        "type": "color"
-      },
-      "surface": {
-        "value": "#333333",
-        "type": "color"
-      },
-      "text": {
-        "value": "#ffffff",
-        "type": "color"
-      }
-    }
+  "White": {
+    "value": "#ffffff",
+    "type": "color"
   },
-  "_brandName": {
-    "accent": {
-      "primary": {
-        "value": "#e54fdf",
-        "type": "color"
-      }
-    }
+  "Pale-grey": {
+    "value": "#f8f8f8",
+    "type": "color"
   },
-  "_New": {
-    "new style": {
-      "value": "#ff0000",
-      "type": "color"
-    }
+  "Mid-grey": {
+    "value": "#f1f1f2",
+    "type": "color"
+  },
+  "Dark-grey": {
+    "value": "#28262e",
+    "type": "color"
+  },
+  "Black": {
+    "value": "#1e1924",
+    "type": "color"
+  },
+  "Rich-purple": {
+    "value": "#7422f5",
+    "type": "color"
+  },
+  "Pale-purple": {
+    "value": "#8b75da",
+    "type": "color"
   }
 }
