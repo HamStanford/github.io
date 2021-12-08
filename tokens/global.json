@@ -8,7 +8,7 @@
     "type": "color"
   },
   "_Mid-grey": {
-    "value": "#f1f1f2",
+    "value": "#bdbdbd",
     "type": "color"
   },
   "_Darkest-grey": {
@@ -28,7 +28,7 @@
     "type": "color"
   },
   "_Dark-grey": {
-    "value": "#BDBDBD",
+    "value": "#757575",
     "type": "color"
   }
 }

@@ -1,10 +1,10 @@
 .global-theme {
           --white: #ffffff;
   --pale-grey: #f8f8f8;
-  --mid-grey: #f1f1f2;
+  --mid-grey: #bdbdbd;
   --darkest-grey: #28262e;
   --black: #1e1924;
   --rich-purple: #7422f5;
   --pale-purple: #8b75da;
-  --dark-grey: #BDBDBD;
+  --dark-grey: #757575;
       }
