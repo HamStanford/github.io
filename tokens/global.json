@@ -11,7 +11,7 @@
     "value": "#f1f1f2",
     "type": "color"
   },
-  "_Dark-grey": {
+  "_Darkest-grey": {
     "value": "#28262e",
     "type": "color"
   },
@@ -25,6 +25,10 @@
   },
   "_Pale-purple": {
     "value": "#8b75da",
+    "type": "color"
+  },
+  "_Dark-grey": {
+    "value": "#BDBDBD",
     "type": "color"
   }
 }
