@@ -1,34 +1,30 @@
 {
-  "White": {
+  "_White": {
     "value": "#ffffff",
     "type": "color"
   },
-  "Pale-grey": {
+  "_Pale-grey": {
     "value": "#f8f8f8",
     "type": "color"
   },
-  "Mid-grey": {
+  "_Mid-grey": {
     "value": "#f1f1f2",
     "type": "color"
   },
-  "Darkest-grey": {
+  "_Dark-grey": {
     "value": "#28262e",
     "type": "color"
   },
-  "Black": {
+  "_Black": {
     "value": "#1e1924",
     "type": "color"
   },
-  "Rich-purple": {
+  "_Rich-purple": {
     "value": "#7422f5",
     "type": "color"
   },
-  "Pale-purple": {
+  "_Pale-purple": {
     "value": "#8b75da",
-    "type": "color"
-  },
-  "Dark-grey": {
-    "value": "#757575",
     "type": "color"
   }
 }
